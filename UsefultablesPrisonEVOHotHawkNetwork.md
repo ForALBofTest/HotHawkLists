@@ -23,7 +23,7 @@
 <aside>
 ⚠️
 
-### **При нахождении неточностей в таблице писать в дс: [trustiness](%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B%20PrisonEVO%20HotHawk%20Network%2037e7eff8b0e280808b7dce19164f2795.md)**
+### **При нахождении неточностей в таблице писать в дс: [trustiness]()**
 
 </aside>
 
