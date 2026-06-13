@@ -330,26 +330,28 @@ ol > li {
 }
 
 .simple-table {
-	margin-top: 1em;
-	font-size: 0.875rem;
-	empty-cells: show;
-}
-.simple-table td {
-	height: 29px;
-	min-width: 120px;
+    margin-top: 1em;
+    font-size: 0.875rem;
+    empty-cells: show;
+    width: 100%;       /* Таблица займет всю ширину блока */
+    table-layout: auto; /* Позволяет ячейкам подстраиваться под контент */
+    border-collapse: collapse; /* Убирает лишние зазоры между ячейками */
 }
 
+.simple-table td, 
 .simple-table th {
-	height: 29px;
-	min-width: 120px;
+    height: auto;      /* Высота будет подстраиваться под текст */
+    min-width: 50px;   /* Уменьшили минимальную ширину, чтобы не выходило за границы */
+    padding: 8px;      /* Добавили немного воздуха для удобства чтения */
+    word-wrap: break-word; /* Текст будет переноситься, если ячейка узкая */
 }
 
 .simple-table-header-color {
-	background: rgb(247, 246, 243);
-	color: black;
+    background: rgb(247, 246, 243);
+    color: black;
 }
 .simple-table-header {
-	font-weight: 500;
+    font-weight: 600;
 }
 
 time {
