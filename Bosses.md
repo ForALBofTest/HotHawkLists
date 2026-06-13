@@ -9,7 +9,7 @@
 [Оружие](Weapons.md)
 [Инструменты](Tools.md)
 [Броня](Armor.md)
-[Награда за КВ](AwardofKV.md)
+[Награда за КВ](AwardforKV.md)
 [Список изменений](Listofchanges.md)
 
 ---
