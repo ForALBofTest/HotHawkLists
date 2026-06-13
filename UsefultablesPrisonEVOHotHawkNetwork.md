@@ -45,7 +45,7 @@
 
 [Боссы](Bosses.md)
 
-[Награда за КВ](AwardofKV.md)
+[Награда за КВ](AwardforKV.md)
 
 [Список изменений](Listofchanges.md)
 
